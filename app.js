@@ -1,3 +1,7 @@
 const isLogin = (user) => {
-    return true;
+    if (user) {
+        return true
+    } else {
+        return false
+    }
 }
