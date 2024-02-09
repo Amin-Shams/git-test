@@ -10,3 +10,7 @@ const setLikes = (likes) => {
 const user = "admin";
 
 // my comment
+
+class Person {
+    
+}
