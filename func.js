@@ -6,3 +6,5 @@ const setComment = (comment) => {
 const setLikes = (likes) => {
     return likes.number
 }
+
+const user = "admin";
